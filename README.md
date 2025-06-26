@@ -162,6 +162,9 @@ Kavya Banoth
 GitHub: @kavyabanoth
 This project was part of an internship task focused on scalable data analysis and visualization using open-source tools.
 
+**Output Picture**
 
+![Image](https://github.com/user-attachments/assets/8d969af4-7269-4281-b720-65312abaf701)
+![Image](https://github.com/user-attachments/assets/94fb33f9-144a-4837-a515-16db0d7c4616)
 
 
